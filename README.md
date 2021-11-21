@@ -6,8 +6,8 @@
 
 📁 Scripter Roblox Script, etc
 
-![Fucking](https://komarev.com/ghpvc/?username=NoNiName&color=ff54c6)
-![FuckFuckFuck](https://img.shields.io/badge/Discord-Negative%236154-pink)
+![View](https://komarev.com/ghpvc/?username=NoNiName&color=ff54c6)
+![Discord](https://img.shields.io/badge/Discord-Negative%236154-pink)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoNiName&show_icons=true&theme=default)
 ![Github stast](https://github-readme-stats.vercel.app/api?username=NoNiName&count_private=false&show_icons=true&theme=default)
