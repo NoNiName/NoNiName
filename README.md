@@ -4,9 +4,9 @@
 
 **Contact on Discord: Negative#6154**
 
-📁 Scripter Roblox Hack Script ,Bot Discord js
+📁 Scripter Roblox Script, etc
 
-![Fucking](https://komarev.com/ghpvc/?username=MAZIHUB191&color=ff54c6)
+![Fucking](https://komarev.com/ghpvc/?username=NoNiName&color=ff54c6)
 ![FuckFuckFuck](https://img.shields.io/badge/Discord-Negative%236154-pink)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoNiName&show_icons=true&theme=default)
