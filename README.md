@@ -8,7 +8,7 @@
 
 ![View](https://komarev.com/ghpvc/?username=NoNiName&color=ff54c6)
 ![Discord](https://img.shields.io/badge/Discord-Negative%236154-pink)
-https://github-readme-stats.vercel.app/api/top-langs/?username=NoNiName&langs_count=8&theme=react)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoNiName&langs_count=8&theme=react)
 ![Github stast](https://github-readme-stats.vercel.app/api?username=NoNiName&count_private=false&show_icons=true&theme=react)
 
